@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CodeFile1.cs](./CS/A2404/CodeFile1.cs) (VB: [CodeFile1.vb](./VB/A2404/CodeFile1.vb))
+* [Form1.cs](./CS/A2404/Form1.cs) (VB: [Form1.vb](./VB/A2404/Form1.vb))
+* [program.cs](./CS/A2404/program.cs) (VB: [program.vb](./VB/A2404/program.vb))
+<!-- default file list end -->
 # How to use the ContainsOperator for objects in a many-to-many relationship
 
 
